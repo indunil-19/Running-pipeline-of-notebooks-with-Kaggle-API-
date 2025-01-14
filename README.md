@@ -4,8 +4,8 @@ This Jupyter Notebook demonstrates how to execute data pipelines on Kaggle using
 
 The pipex script streamlines the pipeline execution. It provides functions for:
 
-  1.Pushing a notebook for execution.
+1.Pushing a notebook for execution.
 
-  2.Monitoring its status until completion.
+2.Monitoring its status until completion.
 
-  3. Executing pipelines of notebooks sequentially or in parallel.
+3. Executing pipelines of notebooks sequentially or in parallel.
